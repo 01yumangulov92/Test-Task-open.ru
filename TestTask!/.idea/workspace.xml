@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af745eb9-a979-489c-afef-b6abcac209b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1arBtWUn7mJKOwmpth9rh8Q7PS7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Morozov\IdeaProjects\TestTask\src\test\resources" />
+      <recent name="C:\Users\Morozov\IdeaProjects\TestTask\src\test\java\steps" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CucumberRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CucumberRunner" />
+      <option name="MAIN_CLASS_NAME" value="CucumberRunner.Runner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af745eb9-a979-489c-afef-b6abcac209b5" name="Default Changelist" comment="" />
+      <created>1587484046397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587484046397</updated>
+      <workItem from="1587484049285" duration="18761000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Project_Structure" timestamp="1587499056135">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587499056135" />
+    <state x="349" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587496755964">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="349" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587496755964" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1587545056336">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587545056336" />
+    <state width="1286" height="203" key="GridCell.Tab.0.bottom" timestamp="1587559713013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587559713013" />
+    <state width="1286" height="203" key="GridCell.Tab.0.center" timestamp="1587559713013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="203" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587559713013" />
+    <state width="1286" height="203" key="GridCell.Tab.0.left" timestamp="1587559713013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="203" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587559713013" />
+    <state width="1286" height="203" key="GridCell.Tab.0.right" timestamp="1587559713013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="203" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587559713013" />
+    <state width="1286" height="203" key="GridCell.Tab.1.bottom" timestamp="1587559713014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="203" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587559713014" />
+    <state width="1286" height="203" key="GridCell.Tab.1.center" timestamp="1587559713014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="203" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587559713014" />
+    <state width="1286" height="203" key="GridCell.Tab.1.left" timestamp="1587559713013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="203" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587559713013" />
+    <state width="1286" height="203" key="GridCell.Tab.1.right" timestamp="1587559713014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="203" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587559713014" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1587499049931">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587499049931" />
+    <state x="499" y="144" key="chooseDestDirectoryDialog" timestamp="1587498767420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="144" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1587498767420" />
+    <state x="435" y="294" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1587545380380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="294" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1587545380380" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587542982956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587542982956" />
+  </component>
+</project>
